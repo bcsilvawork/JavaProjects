@@ -1,0 +1,5 @@
+Please select an option:
+
+1 - Sign up
+2 - Login
+99 - Exit
